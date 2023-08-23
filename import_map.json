@@ -1,5 +1,7 @@
 {
   "imports": {
+    "deco-sites/four2one/": "./",
+
     "deco-sites/staging/": "./",
     "deco-sites/fashion/": "./",
     "$store/": "./",
